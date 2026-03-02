@@ -1,0 +1,47 @@
+Aeg,Kasutaja päring,Filtrid,Leitud ID-d,Leitud ained,LLM Vastus,Hinnang,Veatüüp
+2026-03-02 11:32:49,Anna mulle tehisintellektiga seotud õppeaineid,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['LTAT.01.003', 'OIEO.06.091', 'FLFI.04.105', 'LTAT.02.039', 'LTAT.02.024']",[],"Siin on tehisintellektiga seotud õppeained vastavalt sinu andmebaasile:
+
+*   **Tehisintellekt** (LTAT.01.003)
+*   **Tehisintellekt ja õigus** (OIEO.06.091)
+*   **Vaim tulevikus** (FLFI.04.105)
+*   **Tehisintellekti rakendamise projekt** (LTAT.02.039)
+*   **Tehislik ja loomulik mõistus** (LTAT.02.024)",👍 Hea,
+2026-03-02 11:35:56,Palun anda kõik spordiga seotud õppeained Tartus,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['ARSM.00.011', 'KKSP.02.001', 'KKSP.05.316', 'ARSM.00.014', 'KKSP.05.287']",[],"Siin on kõik spordiga seotud õppeained, mis asuvad Tartus ja on loetletud andmebaasis:
+
+*   **Sporditraumatoloogia** (ARSM.00.011, 2.0 EAP, kevad/sügis, eesti/inglise keel)
+*   **Kehalise kasvatuse ja spordi alused** (KKSP.02.001, 3.0 EAP, sügis, eesti keel)
+*   **Sportliku eriala õpetamise metoodika** (KKSP.05.316, 6.0 EAP, sügis, eesti keel)
+*   **Sportmängude algõpetus I** (KKSP.05.287, 3.0 EAP, sügis, eesti keel)",👍 Hea,
+2026-03-02 11:44:04,tahan rakendada AId oma projektis,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['MJRI.02.065', 'LTAT.02.039', 'HVKU.00.013', 'LTAT.06.020', 'SVNC.00.184']",[],"
+
+Selge! Kui sa soovid oma projektis rakendada AI-d, siis kursus **LTAT.02.039 Tehisintellekti rakendamise projekt** on sulle kõige sobivam. See kursus keskendub just kättesaadavate tehisintellekti mudelite kasutamisele projektides, alustades projekti eesmärkide sõnastamisest ja lõpetades lahenduse testimisega. 
+
+Siin on peamised punktid, miks see kursus sulle kasulik on:
+
+*   **Praktiline lähenemine:** Sa õpid tehisintellekti tehnoloogiaid rakendama samm-sammult juhendaja abil.
+*   **Reaalsed projektid:** Sa teostad grupina projekti, kus sa saad AI-d rakendada ja katsetada.
+*   **Valmislahenduste kasutamine:** Kursus keskendub õpetama, kuidas kasutada olemasolevaid mudeleid ja tööriistu, mitte leiutama ratast üles.
+*   **Kogu protsessi katmine:** Sa katad kogu projekti elukaare – eesmärgi seadmisest valideerimiseni.
+
+Lisaks õpid erinevaid AI tööriistu võrdlema ning hindama nende sobivust. See on suurepärane võimalus omandada oskused, mis on tänapäeval IT valdkonnas väga hinnatud.",👍 Hea,
+2026-03-02 11:47:00,Sooviksin sulgpalli mängida,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['KKSP.04.102_1', 'KKSP.00.026', 'KKSP.05.287', 'SVPH.00.062_1', 'SVPH.00.062']",[],"Kahjuks ei ole kursuste nimekirjas otseselt sulgpalli käsitlevat kursust. Lähim on:
+
+**3105 KKSP.05.287 Sportmängude algõpetus I**
+
+See kursus tutvustab kolme suurema sportmängu põhielemente, sealhulgas sulgpalli. Õpid baastehnikat ja tutvud võistlusmäärustega.",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-03-02 12:00:48,Tahan laulmisega tegeleda,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['MV00.00.018', 'MV00.00.017', 'P2VK.02.728', 'SHHI.02.001', 'HVVK.02.111']",[],"Sa soovid laulmisega tegeleda. Siin on kursused, mis sobivad sinule:
+
+*   **Biomeedikumi segakoor I** (kood: MV00.00.017) - pakub võimalust osaleda segakooris, õppida vokaaltehnikat ja saada avaliku esinemise kogemust.
+*   **Biomeedikumi segakoor II** (kood: MV00.00.018) - jätkukoht esimesele koorile, võimaldab edasi arendada laulmisoskust ja osaleda kontsertidel ja laulupidudel.",👎 Halb,Otsing leidis valed ained (RAG viga)
+2026-03-02 12:03:13,Tahan baas teadmisi programmeerisel Javas,"EAP:(0.0, 36.0), Sem:[], Hind:[], Linn:[], Aste:[], Veeb:[], Eeldusaineteta:False","['SVNC.00.335', 'LTAT.03.007', 'LTAT.03.003', 'LTAT.03.026', 'MTAT.03.236']",[],"
+Java programmeerimise baasiks sobib kursus **1522 SVNC.00.335 Programmeerimise keel Java**. 
+
+See kursus on mõeldud algajatele ja katab:
+
+*   Java programmeerimise põhikontseptsioonid
+*   Andmetüüpide ja objektorienteeritud programmeerimise põhimõtted.
+*   Muutujad, avaldised, tingimuslauseid, tsüklid ja funktsioonid.
+*   Objektide loomine ja kasutamine.
+
+Lisaks annab see kursus praktilise kogemuse Java standardsete andmetüüpide ja -struktuuridega.
+",👎 Halb,LLM hallutsineeris/vastas valesti
